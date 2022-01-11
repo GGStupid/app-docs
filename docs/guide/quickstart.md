@@ -3,7 +3,6 @@ title: 快速开始
 order: 1
 nav:
   title: 快速开始
-  path: /abc
 ---
 
 # 快速开始

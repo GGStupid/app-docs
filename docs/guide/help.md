@@ -3,7 +3,6 @@ title: 帮助文档
 order: 2
 nav:
   title: 帮助文档
-  path: /abc
 ---
 
 # 帮助
