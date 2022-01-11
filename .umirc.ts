@@ -10,8 +10,8 @@ export default defineConfig({
   navs: [
     null,
     {
-      title: '百度',
-      path: 'https://github.com/umijs/dumi',
+      title: 'github',
+      path: 'https://github.com/GGStupid/app-docs',
     },
   ],
   // more config: https://d.umijs.org/config
