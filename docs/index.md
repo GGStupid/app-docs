@@ -1,6 +1,6 @@
 ---
 hero:
-  image: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
+  image: /favicon.svg
   title: Niu-UI
   desc: Niu-UI 是一个牛逼的 UI 框架
   actions:
